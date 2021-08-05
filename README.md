@@ -16,10 +16,9 @@
   <img align="left" alt="José Samuel Produções" width="22px" src="https://jose-samuel-producoes.vercel.app/assets/img/logo/José%20Samuel%20Produções.png" />
 </a>
 
-![](./code.gif)
-
-
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ![Snake gif](https://github.com/LeonardoZanotti/LeonardoZanotti/blob/output/github-contribution-grid-snake.gif)
 
