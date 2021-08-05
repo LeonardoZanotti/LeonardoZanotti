@@ -16,9 +16,9 @@
   <img align="left" alt="José Samuel Produções" width="22px" src="https://jose-samuel-producoes.vercel.app/assets/img/logo/José%20Samuel%20Produções.png" />
 </a>
 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/LeonardoZanotti)
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
 ![Snake gif](https://github.com/LeonardoZanotti/LeonardoZanotti/blob/output/github-contribution-grid-snake.gif)
 
@@ -26,8 +26,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoZanotti&layout=compact)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=pysort)
-
 ![trophy](https://github-profile-trophy.vercel.app/?username=LeonardoZanotti&theme=onedark)
 
-[![Leonardo Zanotti StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14368842)](https://stackoverflow.com/users/14368842/leonardo-zanotti)
+<!-- [![Leonardo Zanotti StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14368842)](https://stackoverflow.com/users/14368842/leonardo-zanotti) -->
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=pysort)
