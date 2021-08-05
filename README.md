@@ -24,8 +24,7 @@
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LeonardoZanotti&show_icons=true&theme=radical" width=52% />
-    <img src="https://github-readme-stats.vercel.app/api?username=LeonardoZanotti&show_icons=true&theme=radical" style="opacity: 0" width=2% />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoZanotti&layout=compact" width=44% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoZanotti&layout=compact" width=44% align=right />
 </p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=LeonardoZanotti&theme=onedark)
@@ -34,18 +33,15 @@
 
 <p align="center">
     <a href="https://github.com/LeonardoZanotti/pysort">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=pysort" width=49% />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=pysort" width=48% />
     </a>
     <a href="https://github.com/LeonardoZanotti/face-recognization">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=face-recognization" align=right width=49% />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=face-recognization" align=right width=48% />
     </a>
-</p>
-
-<p align="center">
     <a href="https://github.com/LeonardoZanotti/color-discover">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=color-discover" width=49% />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=color-discover" width=48% />
     </a>
     <a href="https://github.com/LeonardoZanotti/fruits-delivery-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=fruits-delivery-app" align=right width=49% />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=fruits-delivery-app" align=right width=48% />
     </a>
 </p>
