@@ -22,12 +22,30 @@
 
 ![Snake gif](https://github.com/LeonardoZanotti/LeonardoZanotti/blob/output/github-contribution-grid-snake.gif)
 
-![Leonardo Zanotti GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoZanotti&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoZanotti&layout=compact)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=LeonardoZanotti&show_icons=true&theme=radical" width=52% />
+    <img src="https://github-readme-stats.vercel.app/api?username=LeonardoZanotti&show_icons=true&theme=radical" style="opacity: 0" width=2% />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoZanotti&layout=compact" width=44% />
+</p>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=LeonardoZanotti&theme=onedark)
 
 <!-- [![Leonardo Zanotti StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14368842)](https://stackoverflow.com/users/14368842/leonardo-zanotti) -->
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=pysort)
+<p align="center">
+    <a href="https://github.com/LeonardoZanotti/pysort">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=pysort" width=49% />
+    </a>
+    <a href="https://github.com/LeonardoZanotti/face-recognization">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=face-recognization" align=right width=49% />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/LeonardoZanotti/color-discover">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=color-discover" width=49% />
+    </a>
+    <a href="https://github.com/LeonardoZanotti/fruits-delivery-app">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=fruits-delivery-app" align=right width=49% />
+    </a>
+</p>
