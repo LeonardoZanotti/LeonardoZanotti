@@ -20,18 +20,18 @@
 
  <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
-<img src="https://github.com/LeonardoZanotti/LeonardoZanotti/blob/output/github-contribution-grid-snake.gif" align="center" />
+<img src="https://github.com/LeonardoZanotti/LeonardoZanotti/blob/output/github-contribution-grid-snake.gif" />
 
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=LeonardoZanotti&show_icons=true&theme=radical" width=52% alight=left />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoZanotti&layout=compact" width=44% align=right />
 </p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=LeonardoZanotti&theme=onedark" align="center" />
+<img src="https://github-profile-trophy.vercel.app/?username=LeonardoZanotti&theme=onedark" />
 
 <!-- [![Leonardo Zanotti StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14368842)](https://stackoverflow.com/users/14368842/leonardo-zanotti) -->
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/LeonardoZanotti/pysort">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=pysort" width=48% />
     </a>
