@@ -31,6 +31,11 @@
 
 <!-- [![Leonardo Zanotti StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14368842)](https://stackoverflow.com/users/14368842/leonardo-zanotti) -->
 
+![LeonardoZanotti wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeonardoZanotti)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h3> Some repositories created by me (also see the pinned ones below): </h3>
 <p align="left">
     <a href="https://github.com/LeonardoZanotti/pysort">
@@ -46,8 +51,3 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=fruits-delivery-app" align=right width=48% />
     </a>
 </p>
-
-![LeonardoZanotti wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeonardoZanotti)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
