@@ -45,3 +45,10 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=fruits-delivery-app" align=right width=48% />
     </a>
 </p>
+
+![LeonardoZanotti wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeonardoZanotti)
+
+<img src="https://github.com/LeonardoZanotti/LeonardoZanotti/blob/output/stat.svg" alt="LeonardoZanotti WakaTime Activity"/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
