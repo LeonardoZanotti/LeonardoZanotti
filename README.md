@@ -31,6 +31,7 @@
 
 <!-- [![Leonardo Zanotti StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14368842)](https://stackoverflow.com/users/14368842/leonardo-zanotti) -->
 
+<h3> Some repositories created by me (also see the pinned ones below): </h3>
 <p align="left">
     <a href="https://github.com/LeonardoZanotti/pysort">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=pysort" width=48% />
