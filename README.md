@@ -31,7 +31,9 @@
 
 <!-- [![Leonardo Zanotti StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=14368842)](https://stackoverflow.com/users/14368842/leonardo-zanotti) -->
 
-![LeonardoZanotti wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeonardoZanotti)
+<h3> This week i spent my time on: </h3>
+
+<!-- ![LeonardoZanotti wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeonardoZanotti) -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
