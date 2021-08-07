@@ -36,6 +36,13 @@
 <!-- ![LeonardoZanotti wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeonardoZanotti) -->
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   2 hrs 42 mins   █████████████▒░░░░░░░░░░░   53.15 % 
+TypeScript   1 hr 11 mins    ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
+SCSS         35 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+JSON         18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+HTML         16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+```
 <!--END_SECTION:waka-->
 
 <h3> Some repositories created by me (also see the pinned ones below): </h3>
