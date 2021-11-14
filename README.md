@@ -52,7 +52,7 @@ HTML         40 mins         ██░░░░░░░░░░░░░░░
     <a href="https://github.com/LeonardoZanotti/color-discover">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=color-discover" width=48% />
     </a>
-    <a href="https://github.com/LeonardoZanotti/fruits-delivery-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=fruits-delivery-app" align=right width=48% />
+    <a href="https://github.com/LeonardoZanotti/https://github.com/LeonardoZanotti/jose-samuel-producoes">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=jose-samuel-producoes" align=right width=48% />
     </a>
 </p>
