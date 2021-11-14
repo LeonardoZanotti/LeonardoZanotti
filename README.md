@@ -4,10 +4,6 @@
   <img align="left" alt="Leonardo Zanotti | Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
-<a href="https://twitter.com/LeonardoZanott9">
-  <img align="left" alt="Leonardo Zanotti | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-
 <a href="https://www.linkedin.com/in/leonardojzanotti/">
   <img align="left" alt="Leonardo Zanotti LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
