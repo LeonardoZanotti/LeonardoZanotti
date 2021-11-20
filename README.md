@@ -52,10 +52,10 @@ CSS          45 mins         █░░░░░░░░░░░░░░░░
     <a href="https://github.com/LeonardoZanotti/color-discover">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=color-discover" width=48% />
     </a>
-    <a href="https://github.com/LeonardoZanotti/https://github.com/LeonardoZanotti/jose-samuel-producoes">
+    <a href="https://github.com/LeonardoZanotti/jose-samuel-producoes">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=jose-samuel-producoes" align=right width=48% />
     </a>
-    <a href="https://github.com/LeonardoZanotti/https://github.com/LeonardoZanotti/pyvote">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=pyvote" align=right width=48% />
+    <a href="https://github.com/LeonardoZanotti/pyvote">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=LeonardoZanotti&repo=pyvote" width=48% />
     </a>
 </p>
