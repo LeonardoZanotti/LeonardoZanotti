@@ -8,6 +8,10 @@
   <img align="left" alt="Leonardo Zanotti LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
+<a href="https://www.instagram.com/zanotto.leo13/">
+  <img align="left" alt="Leonardo Zanotti Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" />
+</a>
+
 <a href="https://jose-samuel-producoes.vercel.app">
   <img align="left" alt="José Samuel Produções" width="22px" src="https://jose-samuel-producoes.vercel.app/assets/img/logo/José%20Samuel%20Produções.png" />
 </a>
