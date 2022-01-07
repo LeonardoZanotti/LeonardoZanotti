@@ -1,11 +1,11 @@
 <h2 align="center">Hi 👋, I'm Leonardo Zanotti</h2>
 
 <a href="https://www.youtube.com/channel/UCb8wnvmq1J0GJzjbJFPpKbw">
-  <img align="left" alt="Leonardo Zanotti | Youtube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+  <img align="left" alt="Leonardo Zanotti | Youtube" width="22px" src="https://img.ibxk.com.br/2018/9/programas/7111005180433520.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/leonardojzanotti/">
-  <img align="left" alt="Leonardo Zanotti LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Leonardo Zanotti LinkedIn" width="22px" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" />
 </a>
 
 <a href="https://www.instagram.com/zanotto.leo13/">
