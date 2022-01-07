@@ -1,19 +1,19 @@
 <h2 align="center">Hi 👋, I'm Leonardo Zanotti</h2>
 
 <a href="https://www.youtube.com/channel/UCb8wnvmq1J0GJzjbJFPpKbw">
-  <img align="left" alt="Leonardo Zanotti | Youtube" width="22px" src="https://img.ibxk.com.br/2018/9/programas/7111005180433520.png" />
+  <img align="left" alt="Leonardo Zanotti | Youtube" height="22px" src="https://img.ibxk.com.br/2018/9/programas/7111005180433520.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/leonardojzanotti/">
-  <img align="left" alt="Leonardo Zanotti LinkedIn" width="22px" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" />
+  <img align="left" alt="Leonardo Zanotti LinkedIn" height="22px" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/linkedin_logo_icon_189225.png" />
 </a>
 
 <a href="https://www.instagram.com/zanotto.leo13/">
-  <img align="left" alt="Leonardo Zanotti Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" />
+  <img align="left" alt="Leonardo Zanotti Instagram" height="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/800px-Instagram_logo_2016.svg.png" />
 </a>
 
 <a href="https://jose-samuel-producoes.vercel.app">
-  <img align="left" alt="José Samuel Produções" width="22px" src="https://jose-samuel-producoes.vercel.app/assets/img/logo/José%20Samuel%20Produções.png" />
+  <img align="left" alt="José Samuel Produções" height="22px" src="https://jose-samuel-producoes.vercel.app/assets/img/logo/José%20Samuel%20Produções.png" />
 </a>
 
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/LeonardoZanotti)
