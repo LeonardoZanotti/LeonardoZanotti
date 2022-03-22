@@ -38,9 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   52 mins         ███████████████████████▓░   94.68 %
-CSS          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-HTML         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+JavaScript   52 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
