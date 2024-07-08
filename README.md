@@ -40,15 +40,11 @@ I'm a **Full-Stack Developer** with 4 years of experience specializing in **Angu
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoZanotti&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoZanotti&layout=compact&theme=radical)
 
-## 🐍 GitHub Contribution Snake
-
-![snake gif](https://github.com/LeonardoZanotti/LeonardoZanotti/blob/output/github-contribution-grid-snake.svg)
-
 ## 🌐 Find Me Around the Web 📫
 <br>
 <a href="https://www.instagram.com/zanotto.leo13/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/leonardojzanotti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:leonardo@example.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<a href="mailto:leonardojosezanotti@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
 ## 🌱 Fun Facts
 
