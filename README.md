@@ -7,14 +7,7 @@
 
 ## About Me
 
-I'm a **Full-Stack Developer** with 4 years of experience specializing in **Angular, PHP, and Node.js**. I have enhanced multicultural skills through an exchange program in Japan. I enjoy applying my knowledge in **emerging technologies** and **agile methodologies**. 
-
-🌱 I’m currently learning about **AI and Machine Learning**.
-
-📫 How to reach me:
-<a href="https://www.instagram.com/zanotto.leo13/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/leonardojzanotti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-<a href="mailto:leonardo@example.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+I'm a **Full-Stack Developer** with 4 years of experience specializing in **Angular, Laravel, and Node.js**. I have enhanced multicultural skills through an exchange program in Japan. I enjoy applying my knowledge in **emerging technologies** and **agile methodologies** to innovate in web projects, with a passion for integrating **nature-inspired** solutions.
 
 ## 🔧 Technologies & Tools
 
@@ -41,24 +34,28 @@ I'm a **Full-Stack Developer** with 4 years of experience specializing in **Angu
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ## 📈 GitHub Stats
 
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoZanotti&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoZanotti&layout=compact&theme=radical)
 
-## 🌐 Find Me Around the Web
+## 🐍 GitHub Contribution Snake
 
-- LinkedIn: [Leonardo J Zanotti](https://www.linkedin.com/in/leonardojzanotti/)
-- Instagram: [zanotto.leo13](https://www.instagram.com/zanotto.leo13/)
-- Medium: [@LeonardoZanotti](https://medium.com/@LeonardoZanotti)
+![snake gif](https://github.com/LeonardoZanotti/LeonardoZanotti/blob/output/github-contribution-grid-snake.svg)
+
+## 🌐 Find Me Around the Web 📫
+<br>
+<a href="https://www.instagram.com/zanotto.leo13/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/leonardojzanotti/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:leonardo@example.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
 ## 🌱 Fun Facts
 
 - I love exploring nature and hiking.
 - I enjoy traveling and discovering new cultures.
 - I’m passionate about continuous learning and personal development.
+- I'm learning Japanese and Italian now
 
 ---
 
