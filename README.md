@@ -1,4 +1,4 @@
-# Hi there, I'm Leonardo Zanotti! 👋
+![image](https://github.com/user-attachments/assets/2c244046-11c7-436d-9892-58a8d9ef70b6)# Hi there, I'm Leonardo Zanotti! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LeonardoZanotti&color=blueviolet)
 [![LinkedIn: LeonardoJZanotti](https://img.shields.io/badge/-LeonardoJZanotti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardojzanotti/)](https://www.linkedin.com/in/leonardojzanotti/)
@@ -7,10 +7,18 @@
 
 ## About Me
 
-I'm a **Full-Stack Developer** with 4 years of experience specializing in **Angular, Laravel, and Node.js**. I have enhanced multicultural skills through an exchange program in Japan. I enjoy applying my knowledge in **emerging technologies** and **agile methodologies** to innovate in web projects, with a passion for integrating **nature-inspired** solutions.
+I'm a **Backend Developer** with 4 years of experience in web development, specializing in **Java, PHP and Node.js**. Despite having extensive experience as a Full-Stack Developer, now aims to focus on backend projects. Self-taught and analytical, enhanced multicultural skills through an exchange program in **Japan**. Eager to expand knowledge in **Java and C#**, seeking opportunities to innovate in backend development and contribute to dynamic projects with emerging technologies and **agile methodologies**, with a passion for integrating **nature-inspired** solutions.
+
+🌱 I’m currently learning more about **Java and C#**.
 
 ## 🔧 Technologies & Tools
 
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dot-net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dot-net&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
