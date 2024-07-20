@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/2c244046-11c7-436d-9892-58a8d9ef70b6)# Hi there, I'm Leonardo Zanotti! 👋
+# Hi there, I'm Leonardo Zanotti! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=LeonardoZanotti&color=blueviolet)
 [![LinkedIn: LeonardoJZanotti](https://img.shields.io/badge/-LeonardoJZanotti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardojzanotti/)](https://www.linkedin.com/in/leonardojzanotti/)
