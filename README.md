@@ -7,7 +7,7 @@
 
 ## About Me
 
-I'm a **Backend Developer** with 4 years of experience in web development, specializing in **Java, PHP and Node.js**. Despite having extensive experience as a Full-Stack Developer, now aims to focus on backend projects. Self-taught and analytical, enhanced multicultural skills through an exchange program in **Japan**. Eager to expand knowledge in **Java and C#**, seeking opportunities to innovate in backend development and contribute to dynamic projects with emerging technologies and **agile methodologies**, with a passion for integrating **nature-inspired** solutions.
+**DevOps Engineer** with 5 years of experience and a strong background in **software development** using **Java** and **Node.js**, CI/CD, cloud management, and Infrastructure as Code (IaC). Skilled in boosting system performance, automating tasks with **Python** and Bash, and managing containers. Passionate about building **sustainable software** and using **automation** to make processes more efficient. Enhanced multicultural skills through an exchange program in **Japan**, with a passion for integrating nature-inspired solutions. Adept at solving problems, collaborating with **teams**, and ensuring system reliability while maintaining security and compliance.
 
 🌱 I’m currently learning more about **Java and C#**.
 
