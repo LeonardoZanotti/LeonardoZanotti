@@ -7,7 +7,7 @@
 
 ## About Me
 
-**DevOps Engineer** with 5 years of experience and a strong background in **software development** using **Java** and **Node.js**, CI/CD, cloud management, and Infrastructure as Code (IaC). Skilled in boosting system performance, automating tasks with **Python** and Bash, and managing containers. Passionate about building **sustainable software** and using **automation** to make processes more efficient. Enhanced multicultural skills through an exchange program in **Japan**, with a passion for integrating nature-inspired solutions. Adept at solving problems, collaborating with **teams**, and ensuring system reliability while maintaining security and compliance.
+**Software Engineer** with **5 years** of experience in backend development, automation, and cloud management. Proficient in **Python**, **Java**, **Node.js**, and skilled in CI/CD pipelines, **Docker/Kubernetes**, and Infrastructure as Code (IaC). Adept in automating workflows with Python and Shell script and managing cloud infrastructure on **AWS** and **Azure**. Passionate about building **sustainable software** that positively impacts society, with a focus on environmentally friendly solutions. Multicultural team experience, including an exchange program in **Japan**, striving to create software that makes the world greener and more peaceful.
 
 🌱 I’m currently learning more about **Java and C#**.
 
